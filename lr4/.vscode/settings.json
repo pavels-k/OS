@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "onecommand.h": "c",
+        "types.h": "c",
+        "limits": "c",
+        "texteditor.h": "c"
+    }
+}

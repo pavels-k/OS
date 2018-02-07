@@ -1,0 +1,13 @@
+ _____________________________________________________________________
+|                                                                     |
+| List of available commands:                                         |
+|                                                                     |
+| \help - get this message;                                           |
+| \range - print range of symbols of text;                            |
+| \open <filename> - open new file;                                   |
+| \search <pattern> - number of entrances of pattern;                 |
+| \replace <pattern> <substitution> - replace patern by substitution; |
+| \setlimit - change min and max file size                            |
+| \exit - exit from editor.                                           |
+|_____________________________________________________________________|
+
