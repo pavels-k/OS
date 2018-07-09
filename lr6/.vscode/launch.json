@@ -4,12 +4,11 @@
     // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        // 
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/server.out",
+            "program": "${workspaceFolder}/client",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

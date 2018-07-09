@@ -6,13 +6,8 @@
         {
             "label": "c",
             "type": "shell",
-            "command": "gcc ",
+            "command": "make ",
             "args": [
-                "-g",
-                "server.c",
-                "-o",
-                "server.out",
-                "-lzmq"
             ],
             "group": {
                 "kind": "build",
